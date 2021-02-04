@@ -137,9 +137,9 @@ function printQuote() {
   document.getElementById('quote-box').innerHTML = displayQuote;
 }
 
-// Auto-refreshed quotes at 10 second intervals. (https://stackoverflow.com/questions/18070659/run-javascript-function-at-regular-time-interval)
+// Auto-refreshed quotes at 15 second intervals. (https://stackoverflow.com/questions/18070659/run-javascript-function-at-regular-time-interval)
 function autoGenerate() {
-  setInterval(printQuote, 10000);
+  setInterval(printQuote, 15000);
 }
 
 autoGenerate();
