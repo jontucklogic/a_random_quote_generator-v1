@@ -10,7 +10,7 @@ project 1 - A Random Quote Generator
 /*** 
  * `quotes` array 
 ***/
-let quotes = [
+const quotes = [
   {
     quote: 'When we’re talking about diversity, it’s not a box to check. It is a reality that should be deeply felt and held and valued by all of us.',
     source: 'Ava DuVernay',
