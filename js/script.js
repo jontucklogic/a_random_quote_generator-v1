@@ -15,15 +15,11 @@ const quotes = [
     quote: 'When we’re talking about diversity, it’s not a box to check. It is a reality that should be deeply felt and held and valued by all of us.',
     source: 'Ava DuVernay',
     profession: 'American filmmaker',
-    citation: '',
-    year: ''
   },
   {
     quote: 'I refuse to accept the view that mankind is so tragically bound to the starless midnight of racism and war that the bright daybreak of peace and brotherhood can never become a reality…. I believe that unarmed truth and unconditional love will have the final word.',
     source: 'Martin Luther King, Jr.',
     profession: 'American Baptist minister and Civil Rights activist',
-    citation: '',
-    year: ''
   },
   {
     quote: 'The cost of liberty is less than the price of repression.',
@@ -36,57 +32,42 @@ const quotes = [
     quote: 'In recognizing the humanity of our fellow beings, we pay ourselves the highest tribute.',
     source: 'Thurgood Marshall',
     profession: 'First African American U.S. Supreme Court member',
-    citation: '',
     year: '1972'
   },
   {
     quote: 'Hate is too great a burden to bear. It injures the hater more than it injures the hated.',
     source: 'Coretta Scott King',
     profession: 'Author, activist, civil rights leader',
-    citation: '',
-    year: ''
   },
   {
     quote: 'The need for change bulldozed a road down the center of my mind.',
     source: 'Maya Angelou',
     profession: 'Poet, memoirist, and civil rights activist',
-    citation: '',
-    year: ''
   },
   {
     quote: 'Truth is powerful and it prevails.',
     source: 'Sojourner Truth',
     profession: 'Abolitionist and women\'s rights activist',
-    citation: '',
-    year: ''
   },
   {
     quote: 'Never be limited by other people\’s limited imaginations.',
     source: 'Dr. Mae Jemison',
     profession: 'First African-American female astronaut',
-    citation: '',
-    year: ''
   },
   {
     quote: 'The soul that is within me no man can degrade.',
     source: 'Frederick Douglass',
     profession: 'Social reformer, abolitionist, orator, writer, and statesman',
-    citation: '',
-    year: ''
   },
   {
     quote: 'I don\’t want a Black History Month. Black history is American history.',
     source: 'Morgan Freeman',
     profession: 'Actor, director and narrator',
-    citation: '',
-    year: ''
   },
   {
     quote: 'I swear to the Lord I still can\’t see why democracy means everybody but me.',
     source: 'Langston Hughes',
     profession: 'Poet, social activist, novelist, playwright, and columnist ',
-    citation: '',
-    year: ''
   }
 ]
 
